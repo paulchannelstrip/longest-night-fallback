@@ -15,6 +15,6 @@ ffmpeg \
 	-preset medium \
 	-crf 28 \
 	-threads 4 \
-	-vf "drawtext=fontfile=fonts/inter_dsktp/Inter-Bold.otf:text='We\'ll be right back':fontcolor=#00303b:fontsize=24:box=1:boxcolor=#f1f2da:boxborderw=5:x=(w-text_w)/2:y=(h-text_h)/2" \
+	-vf "drawtext=fontfile=fonts/inter_dsktp/Inter-Bold.otf:textfile=caption.txt:fontcolor=#00303b:fontsize=32:box=1:boxcolor=#f1f2da:boxborderw=5:x=(w-text_w)/2:y=(h-text_h)/2" \
 	-f flv \
 	rtmp://toplap.org/test-yt/asdgfhjkjhsdgf

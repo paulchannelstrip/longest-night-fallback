@@ -1,8 +1,5 @@
-The only other people who might see this are Ethan and Wylder, so PLEASE...
-DO NOT TOUCH ANYTHING IN THIS DIRECTORY.
-IT IS VERY IMPORTANT FOR AN EVENT I'M WORKING ON FOR THE SOLSTICE.
-ALSO PLEASE DO NOT DETACH ANY OF MY SCREEN SESSIONS.
-Thank you
+To change the caption, edit the `caption.txt` file. Be sure to leave an empty line at the beginning, as
+ffmpeg will append a \r to the end (for some reason).
 
-<3 Paul
+To change the stream endpoint, edit the last line of `startstream.sh`.
 
