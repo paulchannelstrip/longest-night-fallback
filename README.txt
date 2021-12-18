@@ -1,8 +1,2 @@
-The only other people who might see this are Ethan and Wylder, so PLEASE...
-DO NOT TOUCH ANYTHING IN THIS DIRECTORY.
-IT IS VERY IMPORTANT FOR AN EVENT I'M WORKING ON FOR THE SOLSTICE.
-ALSO PLEASE DO NOT DETACH ANY OF MY SCREEN SESSIONS.
-Thank you
-
-<3 Paul
+All resources necessary are in this repository. Changing to our needs should be self-explanatory. Have fun!
 
